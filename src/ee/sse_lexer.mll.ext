@@ -1,0 +1,7 @@
+  | "from"      { FROM }
+  | "file"      { FILE }
+  | "reach"     { REACH }
+  | "cut"       { CUT }
+  | "enumerate" { ENUMERATE }
+  | "replace"   { REPLACE }
+  | "by"        { BY }
